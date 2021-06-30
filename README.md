@@ -2,7 +2,7 @@
 
 These are the R and Rcpp scripts developed for illustration of crop growth models (CGMs) and genomic prediction-assisted CGMs in "Integration of crop growth models and genomic prediction" by Akio Onogi, a chapter of "Genomic prediction of complex traits" editted by Nour Ahmadi and Jerome Bartholomé.  
   
-The files and figures in the chapter correspond as follows.  
+The files and figures in the chapter correspond with each other as follows.  
   
 DVRmodel.R                 : Figure 3.  
 DVRmodel.cpp               : Figure 4.  
