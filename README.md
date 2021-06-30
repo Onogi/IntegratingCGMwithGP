@@ -13,5 +13,5 @@ RunDVRmodel_GBM.R          : Figure 12.
 MaizeGrowthModel.R         : Figure 6.  
 MaizeGrowthModel.cpp       : Figure 7.  
 RunMaizeGrowthModel.R      : Figure 9.  
-MaizeGrowthModel_GBM.cpp   : Figure 11.
+MaizeGrowthModel_GBM.cpp   : Figure 11.  
 RunMaizeGrowthModel_GBM.cpp: Figure 13.  
