@@ -16,5 +16,4 @@ RunMaizeGrowthModel.R      : Box 6.
 MaizeGrowthModel_GBM.cpp   : Box 8.  
 RunMaizeGrowthModel_GBM.cpp: Box 10.  
 
-Analysis examples using these scripts are put in AnalysisExample_DVRmodel and AnalysisExample_MaizeGrowthModel.
-R scritps in the folders (Example_DVRmodel.R and Example_MaizeGrowthModel.R) are illustrations how to optimize CGMs, connect with genome data, and use GenomeBasedModel. The results are stored in Example_DVRmodel.RData and Example_MaizeGrowthModel.RData, respectively.
+Analysis examples using these scripts are put in AnalysisExample_DVRmodel and AnalysisExample_MaizeGrowthModel, respectively. R scritps in these folders (Example_DVRmodel.R and Example_MaizeGrowthModel.R) will illustrate how to optimize CGMs, connect them with genome data, and use GenomeBasedModel. The results are stored in Example_DVRmodel.RData and Example_MaizeGrowthModel.RData, respectively.
